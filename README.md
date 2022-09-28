@@ -1,16 +1,21 @@
-# fooddoor
 
-A new Flutter project.
+# Fooddoor Fast Food Delivery App
 
-## Getting Started
+Beautiful Food delivery App UI design with flutter for practice.
+## Features
 
-This project is a starting point for a Flutter application.
+This app has
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+  1. Splash Screen
+  2. Login Page
+  3. Signup Page
+  4. HomePage
+```
+    
+## 🔗 Screenshots
+[![Download Now](https://img.shields.io/badge/Download-1DA1F2?style=for-the-badge&logo=download&logoColor=white)](ss/ss.zip)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot
+![Screenshot](ss/screen3.png)
