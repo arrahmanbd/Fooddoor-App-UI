@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:fooddoor/views/screen/splash.dart';
+import 'package:fooddoor/views/screen/home.dart';
 
 
 void main() {
@@ -17,12 +17,12 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSwatch().copyWith(
-          secondary: Colors.red, // Your accent color
+          secondary: Colors.tealAccent, // Your accent color
         ),
         primarySwatch: Colors.teal,
         secondaryHeaderColor: Colors.tealAccent
       ),
-      home: const Splash(),
+      home: HomePage(),
     );
   }
 }
